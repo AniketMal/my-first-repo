@@ -1,0 +1,82 @@
+## Drive Link
+https://1drv.ms/u/s!AjEeY-VbaR53-Fdyz4Ow1MC2vnJ9?e=TaPeRV
+Passwd : sept@2022
+
+## Task-list Link
+https://xanndev.com/sadhiq/admin1/login
+
+## Raise Ticket
+http://support.sadhix.com/otrs/customer.pl
+user: sept_user  password: sept_2022
+
+
+
+https://onedrive.live.com/?authkey=%21AF5GVlGSqF0a8MM&id=771E695BE5631E31%21108&cid=771E695BE5631E31
+
+install anydesk
+
+VMWARE WORKSTATION 15 LICENSE KEY
+
+FU512-2DG1H-M85QZ-U7Z5T-PY8ZD
+
+
+
+whoami: system user
+pwd : present directory
+history: last used commands
+clear : clear screen
+
+
+ls : list of file name in folder
+cd: change dirctory
+mkdir : make new folder
+touch : make new file
+rm: remove file
+rmdir : remove diretory(folder)
+cat : concatenate command 
+man: format and display the on line pages
+cp : copy file
+mv : move file
+in : provide hardlink 
+uname : operating sys name
+arch : print arch type (hardware type)
+free : display all free and used memory in the system
+chgrp : change group
+chown : change owner
+
+echo : for printing 
+uptime: checking user and duration
+
+
+
+
+permission
+read:
+write:
+execute:
+
+
+rwx :read write execute
+rx : read execute
+rw : read write
+grep : search word in file
+find : search file
+
+owner : 
+group:
+public: 
+
+admin rwx
+group rw
+public r
+
+1 execute
+2 write
+4 read
+
+admin 4+2+1 =7
+group 4+2=6
+pulic 4
+
+
+ssh -v alex@localhost
